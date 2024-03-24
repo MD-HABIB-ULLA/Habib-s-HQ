@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "name": "Alice Smith",
+    "photo": "https://images.unsplash.com/photo-1533777857889-4be7c70b33f7?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "feedback": "Lovely ambiance and great service at your restaurant. Enjoyed every moment there!"
+  },
+  {
+    "id": 2,
+    "name": "Bob Johnson",
+    "photo": "https://images.unsplash.com/photo-1578496780896-7081cc23c111?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "feedback": "Had a wonderful dining experience at your restaurant. The food was delicious and the staff was very attentive."
+  },
+  {
+    "id": 3,
+    "name": "Charlie Brown",
+    "photo": "https://plus.unsplash.com/premium_photo-1661670815421-679b71fe2c30?q=80&w=1471&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "feedback": "Impressed by the cozy atmosphere and delicious cuisine. Will definitely be returning soon!"
+  },
+  {
+    "id": 4,
+    "name": "Diana Garcia",
+    "photo": "https://plus.unsplash.com/premium_photo-1665203490342-327fc50e1008?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "feedback": "Thank you for the amazing dining experience! Loved the food and the friendly staff."
+  },
+  {
+    "id": 5,
+    "name": "Ethan Lee",
+    "photo": "https://media.istockphoto.com/id/1464025748/photo/portrait-shot-of-happy-smiling-couple-looking-at-camera-during-candle-light-dinner-at-home.jpg?s=1024x1024&w=is&k=20&c=q9usub9FaHtt_EMdVXkAnN_it0GrE9iaIN9YE69Sctk=",
+    "feedback": "The candlelight dinner setup was perfect for a romantic evening. Exceptional food and service!"
+  },
+  {
+    "id": 6,
+    "name": "Fiona Miller",
+    "photo": "https://plus.unsplash.com/premium_photo-1663045868011-e8a59dd71916?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "feedback": "Had a fantastic time dining at your restaurant. The ambiance was charming and the food was delightful."
+  },
+  {
+    "id": 7,
+    "name": "David Hernandez",
+    "photo": "https://images.unsplash.com/photo-1655961960558-164de43ea10e?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "feedback": "Great place to dine with friends. The food was delicious and the staff was very accommodating."
+  },
+  {
+    "id": 8,
+    "name": "Isabella Young",
+    "photo": "https://plus.unsplash.com/premium_photo-1661589739748-fba21491af42?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "feedback": "Thoroughly enjoyed my meal at your restaurant. The presentation of the dishes was impressive!"
+  },
+  {
+    "id": 9,
+    "name": "Michael Walker",
+    "photo": "https://images.unsplash.com/photo-1507914372368-b2b085b925a1?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "feedback": "Delicious food served with a smile! Loved the variety on the menu."
+  },
+  {
+    "id": 10,
+    "name": "Olivia Jones",
+    "photo": "https://plus.unsplash.com/premium_photo-1665203493128-67dc9bfade27?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "feedback": "Appreciated the safety measures taken at your restaurant. Enjoyed a pleasant and safe dining experience."
+  }
+]

@@ -2,9 +2,11 @@ import { useContext } from "react";
 import SelectedItemContext from "../../context/context";
 import { toast } from "react-toastify";
 import { Link } from "react-router-dom";
+import { addToCart } from "../../util/localStorage";
 
 
 const Food = ({ categorie }) => {
+
   
   const { strCategoryThumb, strCategory, idCategory } = categorie;
 
@@ -15,8 +17,10 @@ const Food = ({ categorie }) => {
       notify();
     } else {
       setSelectedFoods([...selectedFoods, categorie]);
+      addToCart(idCategory)
     }
   };
+
 
   return (
     <div>

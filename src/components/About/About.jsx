@@ -123,7 +123,7 @@ const About = () => {
                 {" "}
                 If applicable, mention any awards or accolades received by
                 Habib's HQ. For example: "Our commitment to culinary excellence
-                has been recognized by [publication/organization], earning us
+                has been recognized by one star, earning us
                 accolades such as 'Best Restaurant' and 'Chef of the Year.' We
                 are grateful for the support of our loyal patrons and the
                 recognition of our peers.

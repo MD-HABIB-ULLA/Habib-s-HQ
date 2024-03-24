@@ -22,11 +22,6 @@ const router = createBrowserRouter([
         element: <Home />,
       },
       {
-        path: "about",
-        loader: () => fetch("/public/year.json"),
-        element: <About />,
-      },
-      {
         path: "foods",
         element: <Foods />,
         children: [
@@ -45,8 +40,13 @@ const router = createBrowserRouter([
         ],
       },
       {
+        path: "about",
+        loader: () => fetch("./year.json"),
+        element: <About />,
+      },
+      {
         path: "feedback",
-        loader: () => fetch("../public/Customer.json"),
+        loader: () => fetch("./Customer.json"),
         element: <Feedback />,
       },
     ],

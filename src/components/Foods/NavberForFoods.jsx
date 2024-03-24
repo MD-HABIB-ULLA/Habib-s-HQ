@@ -1,8 +1,11 @@
 import { useContext } from "react";
 import { FaMagnifyingGlass } from "react-icons/fa6";
 import SelectedItemContext from "../../context/context";
+import { getStoredCart } from "../../util/localStorage";
 const NavberForFoods = () => {
   const { selectedFoods} =useContext(SelectedItemContext);
+  console.log(parseInt(getStoredCart()[1]))
+
 
   return (
     <div className="border-b-2 border-[#53383149]">
@@ -39,7 +42,7 @@ const NavberForFoods = () => {
                     d="M3 3h2l.4 2M7 13h10l4-8H5.4M7 13L5.4 5M7 13l-2.293 2.293c-.63.63-.184 1.707.707 1.707H17m0 0a2 2 0 100 4 2 2 0 000-4zm-8 2a2 2 0 11-4 0 2 2 0 014 0z"
                   />
                 </svg>
-                <span className="badge badge-sm indicator-item">{selectedFoods.length}</span>
+                <span className="badge badge-sm indicator-item">{getStoredCart().length}</span>
               </div>
             </div>
             <div

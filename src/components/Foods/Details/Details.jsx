@@ -12,9 +12,9 @@ const Details = () => {
   console.log(typeof id);
   return (
     <div>
-      <div className="hero min-h-screen bg-transparent">
+      <div className="hero min-h-screen container m-auto bg-transparent">
         <div className="flex w-[100%] flex-col lg:flex-row items-center">
-          <div className="lg:w-[40%] w-[90%] m-auto">
+          <div className="lg:w-[40%] w-[90%] lg:p-5 m-auto">
             <img
               src={strCategoryThumb}
               className=" w-full  rounded-lg "

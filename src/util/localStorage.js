@@ -11,8 +11,7 @@ const saveCartToLS = cart =>{
 }
 const addToCart = id => {
     const cart = getStoredCart();
-    const updatedCart = [...cart, id]; // Create a new array with the new item added
+    const updatedCart = [...cart, id];
     saveCartToLS(updatedCart);
 };
-
 export {addToCart, getStoredCart};
